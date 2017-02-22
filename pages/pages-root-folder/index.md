@@ -15,8 +15,8 @@ widget2:
     for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation
     Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation,
     footer,...
-  video: <a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg"
-    width="302" height="182" alt=""/></a>
+  video: <a href="#" data-reveal-id="videoModal"><img src="http://johnjsb.github.io/projects/images/elise-fox-302x170.jpg"
+    width="302" height="170" alt=""/></a>
 widget3:
   title: Download Theme
   url: https://github.com/Phlow/feeling-responsive
