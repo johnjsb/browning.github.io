@@ -3,12 +3,11 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: Blog & Portfolio of Projects
+  title: Blog of Projects
   url: https://johnjsb.github.io/projects/blog/
   image: widget-1-302x182.jpg
-  text: Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments
-    of your activities. <em>Feeling Responsive</em> offers you a fully functional
-    blog with an archive page to give readers a quick overview of all your posts.
+  text: A Blog containing a bunch of random projects I've done. <em>aaa</em> Past
+    and Present Post.
 widget2:
   title: Why use this theme?
   url: http://phlow.github.io/feeling-responsive/info/
