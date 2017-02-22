@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'Projects'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -21,11 +21,11 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: John Browning
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'https://phlow.github.io'
+#https://johnjsb.github.io/projects/
+url: 'https://johnjsb.github.io/projects/'
 baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
@@ -205,7 +205,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: Projects
 
 
 #      _____
